@@ -1,2 +1,0 @@
-n = int(input("Please enter a number: "))
-print("\nThe number entered was", n)
