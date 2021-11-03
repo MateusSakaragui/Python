@@ -2,4 +2,4 @@ s = 0
 for i in range (1, 11, 1):
   n = int(input("Por favor, digite um número: "))
   s = s + n
-print("\nA soma dos números inseridos é: ", s)
+print("\nA soma dos números inseridos é:", s)
