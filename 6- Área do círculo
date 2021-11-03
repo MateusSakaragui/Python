@@ -1,0 +1,2 @@
+r = int(input("Por favor, digite o raio de um círculo: "))
+print("\nA área do círculo é igual a:", 3.14 * (r * r))
