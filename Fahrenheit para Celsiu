@@ -1,0 +1,2 @@
+f = float(input("Por favor, digite a temperatura em Fahrenheit: "))
+print("\nA temperatura equivalente em graus Celsius é:", (f - 32) * 5/9, end="º")
