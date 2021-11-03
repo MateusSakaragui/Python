@@ -1,0 +1,2 @@
+a = int(input("Por favor, digite a medida da aresta de um quadrado: "))
+print("\nO dobro da área do quadrado é igual a:", (a * a) * 2)
