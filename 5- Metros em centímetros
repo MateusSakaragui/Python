@@ -1,0 +1,2 @@
+m = int(input("Por favor, digite um valor em metros: "))
+print("\nO valor inserido é equivalente a", m * 100,"centímetros.")
